@@ -1,0 +1,22 @@
+feature:
+	speak AI assistant - done
+	speech recognition - done 
+	translate system - done 
+main idea:
+	answer the question : - done
+				throught wikipedia and volfram alphal:
+					need voice blind people and search it.  
+					convert to text and speak.
+				use openai can answer the question and time,date=)))
+	cross the road :
+				use AI system help blind cross		
+	detect object :
+			read text:
+				including translate language
+			read name object :
+				train model YOLOV8.pnt
+	studing for blind people:
+			volfram alphal
+	entertainment: - done 
+			listen to music-done
+			read paper- done
